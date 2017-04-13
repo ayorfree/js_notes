@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ec5f52a-1b79-41d1-9fd2-58b79172e473" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/QuickLook/Preview.jpg" afterPath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/QuickLook/Preview.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/style.mindnodestyle/metadata.plist" afterPath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/style.mindnodestyle/metadata.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/viewState.plist" afterPath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/viewState.plist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/contents.xml" afterPath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/contents.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/style.mindnodestyle/contents.xml" afterPath="$PROJECT_DIR$/JavaScript标准参考教程.mindnode/style.mindnodestyle/contents.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -233,7 +238,7 @@
       <option name="presentableId" value="Default" />
       <updated>1491988715095</updated>
       <workItem from="1491988717783" duration="4064000" />
-      <workItem from="1492047770001" duration="1287000" />
+      <workItem from="1492047770001" duration="1418000" />
     </task>
     <task id="LOCAL-00001" summary="1.1_概述">
       <created>1491990541591</created>
@@ -263,11 +268,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492049968707</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="mindnode/4">
+      <created>1492056870938</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1492056870938</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5351000" />
+    <option name="totallyTimeSpent" value="5482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,7 +341,8 @@
     <MESSAGE value="1.2_JavaScript语言的历史" />
     <MESSAGE value="mindnode/1" />
     <MESSAGE value="mindnode/3" />
-    <option name="LAST_COMMIT_MESSAGE" value="mindnode/3" />
+    <MESSAGE value="mindnode/4" />
+    <option name="LAST_COMMIT_MESSAGE" value="mindnode/4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
